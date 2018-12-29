@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/templates/oraz/css/template.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Oraz - Videos</title>
+		<description><![CDATA[]]></description>
+		<link>http://joomla.templaza.nethttp://joomla.templaza.net/oraz/index.php/videos/tags/daniel-castro/5</link>
+		<lastBuildDate>Sat, 29 Dec 2018 15:40:47 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://joomla.templaza.net/oraz/index.php/videos/tags/daniel-castro/5?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>I'll Play The Blues For You</title>
+			<link>http://joomla.templaza.net/oraz/index.php/videos/4-videos/i-ll-play-the-blues-for-you/11</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/videos/4-videos/i-ll-play-the-blues-for-you/11</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/videos/4-videos/i-ll-play-the-blues-for-you/11"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/i-ll-play-the-blues-for-you-11-v_o.jpg" alt="I'll Play The Blues For You"/></a><p>{youtube}ioOzsi9aHQQ|100%|auto{/youtube}</p><p>The most common roasting machines are of two basic types: drum and hot-air, although there are others including packed-bed, tangential and centrifugal roasters. Roasters can operate in either batch or continuous modes. Home roasters are also available.</p>
+]]></description>
+			<pubDate>Wed, 10 Oct 2018 02:55:18 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/templates/oraz/css/template.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Oraz - Pop</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://joomla.templaza.net"/>
+	<id>http://joomla.templaza.net/oraz/index.php/pop/tags/sam-smith/4</id>
+	<updated>2018-12-29T15:40:32+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://joomla.templaza.net/oraz/index.php/pop/tags/sam-smith/4?format=feed&amp;type=atom"/>
+	<entry>
+		<title>All Woman</title>
+		<link rel="alternate" type="text/html" href="http://joomla.templaza.nethttp://joomla.templaza.net/oraz/index.php/pop/3-pop-album/all-woman/27"/>
+		<published>2018-10-29T07:03:23+00:00</published>
+		<updated>2018-10-29T07:03:23+00:00</updated>
+		<id>http://joomla.templaza.nethttp://joomla.templaza.net/oraz/index.php/pop/3-pop-album/all-woman/27</id>
+		<author>
+			<name>Lukas Ivanov</name>
+		</author>
+		<summary type="html">&lt;a href=&quot;http://joomla.templaza.net/oraz//oraz/index.php/pop/3-pop-album/all-woman/27&quot;&gt;&lt;img src=&quot;http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/all-woman-27_l.jpg&quot; alt=&quot;All Woman&quot;/&gt;&lt;/a&gt;&lt;p&gt;The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;http://joomla.templaza.net/oraz//oraz/index.php/pop/3-pop-album/all-woman/27&quot;&gt;&lt;img src=&quot;http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/all-woman-27_l.jpg&quot; alt=&quot;All Woman&quot;/&gt;&lt;/a&gt;&lt;p&gt;The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.&lt;/p&gt;
+</content>
+	</entry>
+</feed>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/templates/oraz/css/template.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Oraz - Oraz</title>
+		<description><![CDATA[]]></description>
+		<link>http://joomla.templaza.nethttp://joomla.templaza.net/oraz/index.php/component/tz_portfolio_plus/portfolio/5-rock</link>
+		<lastBuildDate>Sat, 29 Dec 2018 15:39:54 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://joomla.templaza.net/oraz/index.php/component/tz_portfolio_plus/portfolio/5-rock?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Africa</title>
+			<link>http://joomla.templaza.net/oraz/index.php/rock/5-rock/africa/19</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/rock/5-rock/africa/19</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/rock/5-rock/africa/19"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/africa-19_l.jpg" alt="Africa"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:42:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Thunder</title>
+			<link>http://joomla.templaza.net/oraz/index.php/rock/5-rock/thunder/18</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/rock/5-rock/thunder/18</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/rock/5-rock/thunder/18"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/thunder-18_l.jpg" alt="Thunder"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:41:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>Broken</title>
+			<link>http://joomla.templaza.net/oraz/index.php/rock/5-rock/broken/17</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/rock/5-rock/broken/17</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/rock/5-rock/broken/17"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/broken-17_l.jpg" alt="Broken"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:40:41 +0000</pubDate>
+		</item>
+		<item>
+			<title>High Hopes</title>
+			<link>http://joomla.templaza.net/oraz/index.php/rock/5-rock/high-hopes/16</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/rock/5-rock/high-hopes/16</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/rock/5-rock/high-hopes/16"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/high-hopes-16_l.jpg" alt="High Hopes"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:39:38 +0000</pubDate>
+		</item>
+		<item>
+			<title>Natural</title>
+			<link>http://joomla.templaza.net/oraz/index.php/rock/5-rock/natural/15</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/rock/5-rock/natural/15</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/rock/5-rock/natural/15"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/natural-15_l.jpg" alt="Natural"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:38:22 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

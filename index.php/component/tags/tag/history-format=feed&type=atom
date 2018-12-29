@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Oraz - Oraz</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://joomla.templaza.net"/>
+	<id>http://joomla.templaza.net/oraz/index.php/component/tags/tag/history</id>
+	<updated>2018-12-29T15:39:59+00:00</updated>
+	<author>
+		<name>Oraz</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://joomla.templaza.net/oraz/index.php/component/tags/tag/history?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Remember those great Volkswagen ads?</title>
+		<link rel="alternate" type="text/html" href="http://joomla.templaza.net/oraz/index.php/blog/9-remember-those-great-volkswagen-ads"/>
+		<published>2018-02-22T09:25:04+00:00</published>
+		<updated>2018-02-22T09:25:04+00:00</updated>
+		<id>http://joomla.templaza.net/oraz/index.php/blog/9-remember-those-great-volkswagen-ads</id>
+		<author>
+			<name>Lukas Ivanov</name>
+		</author>
+		<summary type="html">&lt;p&gt;In 1949, William Bernbach, along with colleagues, Ned Doyle and Maxwell Dane, formed Doyle Dane Bernbach (DDB)&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;In 1949, William Bernbach, along with colleagues, Ned Doyle and Maxwell Dane, formed Doyle Dane Bernbach (DDB)&lt;/p&gt;</content>
+		<category term="Remember those great Volkswagen ads?" />
+	</entry>
+</feed>

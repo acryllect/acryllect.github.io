@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/templates/oraz/css/template.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Oraz - Jazz</title>
+		<description><![CDATA[]]></description>
+		<link>http://joomla.templaza.nethttp://joomla.templaza.net/oraz/index.php/jazz</link>
+		<lastBuildDate>Sat, 29 Dec 2018 15:39:41 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://joomla.templaza.net/oraz/index.php/jazz?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>My Favorite Things</title>
+			<link>http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/my-favorite-things/24</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/my-favorite-things/24</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/jazz/6-jazz/my-favorite-things/24"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/my-favorite-things-24_l.jpg" alt="My Favorite Things"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:49:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Round Midnight</title>
+			<link>http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/round-midnight/23</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/round-midnight/23</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/jazz/6-jazz/round-midnight/23"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/round-midnight-23_l.jpg" alt="Round Midnight"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:48:17 +0000</pubDate>
+		</item>
+		<item>
+			<title>Take a Train</title>
+			<link>http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/take-a-train/22</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/take-a-train/22</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/jazz/6-jazz/take-a-train/22"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/take-a-train-22_l.jpg" alt="Take a Train"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:47:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>So What</title>
+			<link>http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/so-what/21</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/so-what/21</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/jazz/6-jazz/so-what/21"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/so-what-21_l.jpg" alt="So What"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:46:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Take Five</title>
+			<link>http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/take-five/20</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/jazz/6-jazz/take-five/20</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/jazz/6-jazz/take-five/20"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/take-five-20_l.jpg" alt="Take Five"/></a><p>The roasting process is what produces the characteristic flavor of coffee by causing the green coffee beans to change in taste.</p>
+]]></description>
+			<pubDate>Mon, 29 Oct 2018 04:43:59 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/oraz/components/com_tz_portfolio_plus/templates/oraz/css/template.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Oraz - Pop</title>
+		<description><![CDATA[]]></description>
+		<link>http://joomla.templaza.nethttp://joomla.templaza.net/oraz/index.php/pop/tags/armin-chekov/3</link>
+		<lastBuildDate>Sat, 29 Dec 2018 15:40:33 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://joomla.templaza.net/oraz/index.php/pop/tags/armin-chekov/3?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Closer</title>
+			<link>http://joomla.templaza.net/oraz/index.php/pop/3-pop-album/closer/7</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/pop/3-pop-album/closer/7</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/pop/3-pop-album/closer/7"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/closer-7_l.jpg" alt="Closer"/></a><p>The most common roasting machines are of two basic types: drum and hot-air, although there are others including packed-bed, tangential and centrifugal roasters. Roasters can operate in either batch or continuous modes. Home roasters are also available.</p>
+]]></description>
+			<pubDate>Wed, 03 Oct 2018 03:49:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Routine</title>
+			<link>http://joomla.templaza.net/oraz/index.php/pop/3-pop-album/routine/6</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/pop/3-pop-album/routine/6</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/pop/3-pop-album/routine/6"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/routine-6_l.jpg" alt="Routine"/></a><p>The most common roasting machines are of two basic types: drum and hot-air, although there are others including packed-bed, tangential and centrifugal roasters. Roasters can operate in either batch or continuous modes. Home roasters are also available.</p>
+]]></description>
+			<pubDate>Wed, 03 Oct 2018 03:33:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>Summer Love</title>
+			<link>http://joomla.templaza.net/oraz/index.php/pop/3-pop-album/summer-love/2</link>
+			<guid isPermaLink="true">http://joomla.templaza.net/oraz/index.php/pop/3-pop-album/summer-love/2</guid>
+			<description><![CDATA[<a href="http://joomla.templaza.net/oraz//oraz/index.php/pop/3-pop-album/summer-love/2"><img src="http://joomla.templaza.net/oraz/media/tz_portfolio_plus/article/cache/summer-love-2_l.jpg" alt="Summer Love"/></a><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam molestie mattis interdum. Nullam tempus eleifend eros. Etiam eget faucibus odio, ut feugiat leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer porttitor dignissim leo quis finibus. Donec sed lorem libero. Sed quis sapien vel nulla consequat aliquam. Phasellus tempor aliquet dui, quis eleifend nisi laoreet at.</p>
+]]></description>
+			<pubDate>Mon, 01 Oct 2018 08:07:11 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

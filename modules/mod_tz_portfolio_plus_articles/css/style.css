@@ -1,0 +1,60 @@
+.tz_portfolio_plus_articles {
+  list-style: none;
+  padding: 0;
+}
+.tz_portfolio_plus_articles li {
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: 2em;
+}
+.tz_portfolio_plus_articles li:before,
+.tz_portfolio_plus_articles li:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+.tz_portfolio_plus_articles li > div {
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.tz_portfolio_plus_articles li .tzpp_media {
+  width: 30%;
+}
+.tz_portfolio_plus_articles li .tzpp_media img {
+  max-width: 100%;
+}
+.tz_portfolio_plus_articles li .tzpp_content {
+  width: 70%;
+}
+.tz_portfolio_plus_articles li .item-meta {
+  margin-top: 10px;
+}
+.tz_portfolio_plus_articles li .item-meta > div {
+  display: inline-block;
+  font-size: 85%;
+  margin-right: 10px;
+}
+.tz_portfolio_plus_articles li .title {
+  margin: 0;
+}
+.tz_portfolio_plus_articles li .description {
+  margin-top: 10px;
+}
+.tz_portfolio_plus_articles li:last-child {
+  margin-bottom: 0;
+}
+@media (max-width: 767px) {
+  .tz_portfolio_plus_articles li .tzpp_media {
+    width: 100%;
+  }
+  .tz_portfolio_plus_articles li .tzpp_content {
+    width: 100%;
+  }
+  .tz_portfolio_plus_articles li .title {
+    margin-top: 15px;
+  }
+}
+/*# sourceMappingURL=style.css.map */

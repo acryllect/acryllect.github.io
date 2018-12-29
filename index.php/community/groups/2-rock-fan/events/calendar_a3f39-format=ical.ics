@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:42a6f9dddf86d7485d5481ae4509a74f
+DTSTAMP:20181229T153950Z
+
+DTSTART:20190101T110000
+DTEND:20190731T110000
+SUMMARY:Off Rock Fan
+DESCRIPTION:Nulla fermentum nec ex in condimentum. Phasellus id molestie felis, quis aliquam neque. Cras libero dui, aliquet quis venenatis id, lobortis sit amet massa. Suspendisse metus dolor, efficitur ac risus sed, porta faucibus turpis. Cras et egestas mauris. Nullam et blandit arcu. Nunc at mauris euismod, dapibus libero vitae, imperdiet lectus. 
+LOCATION:
+END:VEVENT
+
+END:VCALENDAR
